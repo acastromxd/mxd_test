@@ -27,8 +27,8 @@ If you have any final comments about your result please let us know creating a f
 For bonus points demonstrate an understanding of how you would test your code.
 
 ### Technical Requirements:
-* Language: Objective-C
-* Storyboard with Size Classes and Auto Layout
+* Language: Swift         
+* Storyboard with Size Classes, StackViews and Auto Layout
 * Xcode 8.x
 * iOS 10.x
 * iPhone SE/7 with support for Landscape and Portrait You may use 3rd-party libraries
